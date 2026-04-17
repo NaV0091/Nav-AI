@@ -1,0 +1,12 @@
+{
+  "name": "Nav AI",
+  "description": "Biological intelligence platform for calorie tracking, body transformation, and metabolic optimization.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "AI Image Analysis",
+    "Health Analytics",
+    "Personalized Nutrition"
+  ]
+}
